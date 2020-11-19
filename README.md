@@ -12,7 +12,7 @@ votación, por lo que prima la simplicidad por encima de la eficiencia
 cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
 
-Comabio en rama practica19
+Comabio en rama practica19, donde vamos a hacer un pull request
 
 Subsistemas, apps y proyecto base
 ---------------------------------
