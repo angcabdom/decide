@@ -12,7 +12,7 @@ votación, por lo que prima la simplicidad por encima de la eficiencia
 cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
 
-Un Cambio xD Otra vez
+Comabio en rama practica19
 
 Subsistemas, apps y proyecto base
 ---------------------------------
