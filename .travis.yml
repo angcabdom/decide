@@ -20,3 +20,4 @@ deploy:
   provider: heroku
   app: test-egc
   strategy: git
+  apikey: $HEROKU_AUTH_TOKEN
